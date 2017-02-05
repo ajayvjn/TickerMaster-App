@@ -1,4 +1,4 @@
-# tickermasterapp
+# TickerMaster-App
 
 Integrated TicketMaster API's with googlemaps.
 
